@@ -66,4 +66,4 @@ class Game {
   }
 }
 
-// module.exports = Game.newGame; 
+module.exports = Game.newGame; 
